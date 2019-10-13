@@ -1,0 +1,1 @@
+Hi! We are going to make our first Russian synthetic voice in time. I'am preparing to train the Russian baseline voice with RUSLAN dataSET!
